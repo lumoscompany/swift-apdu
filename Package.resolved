@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "buffbit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lumoscompany/buffbit",
+      "state" : {
+        "revision" : "888460ab19c3c4077983726a65b36c0d2e282fd3",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
